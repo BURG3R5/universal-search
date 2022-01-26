@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Universal Search",
+  "version": "1.0",
+  "description": "Search on Ecosia, Google, Wikipedia and Google Images simultaneously with one searchbar.",
+  "homepage_url": "https://github.com/BURG3R5/universal-search",
+  "icons": {
+    "48": "icons/main.svg"
+  },
+  "browser_action": {
+    "default_icon": "icons/action.png",
+    "default_title": "Universal Search",
+    "default_popup": "popup/search.html"
+  }
+}

@@ -1,7 +1,0 @@
-<component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="Run WebExtension" type="JavascriptDebugType" uri="https://www.mozilla.org" useFirstLineBreakpoints="true">
-    <method v="2">
-      <option name="ToolBeforeRunTask" enabled="true" actionId="Tool_External Tools_web-ext" />
-    </method>
-  </configuration>
-</component>
